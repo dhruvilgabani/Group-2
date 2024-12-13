@@ -6,6 +6,8 @@ export default function App() {
     <View style={styles.container}>
       <Text>Dhruvil Gabani</Text>
       <Text>Graphics Designer</Text>
+      <Text>Arshleen Kaur</Text>
+      <Text>Web Developer</Text>
       <StatusBar style="auto" />
     </View>
   );
@@ -17,5 +19,6 @@ const styles = StyleSheet.create({
     backgroundColor: '#98C1D9',
     alignItems: 'center',
     justifyContent: 'center',
+    color:'white',
   },
 });
